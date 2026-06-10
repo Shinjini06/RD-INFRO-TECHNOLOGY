@@ -9,13 +9,13 @@
 
 ---
 
-## 📌 Objective
+## Objective
 
 Clean and preprocess raw data to make it suitable for machine learning model training. This includes handling missing values, removing outliers, encoding categorical variables, engineering new features, scaling, and splitting the data.
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 | Library | Purpose |
 |---|---|
@@ -27,7 +27,7 @@ Clean and preprocess raw data to make it suitable for machine learning model tra
 
 ---
 
-## 📋 Steps Performed
+## Steps Performed
 
 | Step | Description |
 |---|---|
@@ -45,7 +45,7 @@ Clean and preprocess raw data to make it suitable for machine learning model tra
 
 ---
 
-## 📊 Results
+## Results
 
 | Metric | Value |
 |---|---|
@@ -57,7 +57,7 @@ Clean and preprocess raw data to make it suitable for machine learning model tra
 
 ---
 
-## 📁 Files
+## Files
 
 ```
 RD-INFRO-TECHNOLOGY/
@@ -70,7 +70,7 @@ RD-INFRO-TECHNOLOGY/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 # Install dependencies
@@ -82,6 +82,6 @@ python data_cleaning_preprocessing.py
 
 ---
 
-## 📈 Visualization Preview
+## Visualization Preview
 
 ![Preprocessing Report](preprocessing_report.png)
